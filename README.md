@@ -1,12 +1,12 @@
-<!-- GIF TOPO -->
+<!-- BANNER GIF -->
 <p align="center">
 <img src="https://i.pinimg.com/originals/56/3c/05/563c051c796e3834047114da21707a49.gif" width="500">
 </p>
 
-<h2 align="center">Vicav87</h2>
+<h1 align="center">Vicav87</h1>
 
 <p align="center">
-Programador • Automação • Bots • IA
+Developer • Automação • Bots • Inteligência Artificial
 </p>
 
 <p align="center">
@@ -15,19 +15,40 @@ Programador • Automação • Bots • IA
 
 ---
 
-## Estatísticas
+# Sobre
+
+Desenvolvedor focado em automação, bots e scripts.  
+Experiência com desenvolvimento web, ferramentas de automação e projetos experimentais.
+
+Principais interesses:
+
+- Automação de processos
+- Desenvolvimento de bots
+- Scripts para Termux
+- Inteligência artificial
+- Ferramentas experimentais
+
+---
+
+# Estatísticas
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vicav87&show_icons=true&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&hide_border=true&cache_seconds=1800">
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vicav87&show_icons=true&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicav87&layout=compact&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&hide_border=true&cache_seconds=1800">
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicav87&layout=compact&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&hide_border=true">
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vicav87&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Tecnologias
+# Tecnologias
 
 <p align="center">
 
@@ -41,15 +62,27 @@ Programador • Automação • Bots • IA
 
 ---
 
-## Projetos
+# Projetos
 
 <p align="center">
-Bots de automação • Scripts para Termux • Sites estilo hacker
+
+<a href="https://github.com/Vicav87?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vicav87&repo=Vicav87&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&hide_border=true">
+</a>
+
 </p>
+
+Projetos focados em:
+
+- automação
+- bots
+- scripts para Termux
+- experimentos com IA
+- desenvolvimento web
 
 ---
 
-## Atividade
+# Atividade
 
 <p align="center">
 
@@ -59,7 +92,7 @@ Bots de automação • Scripts para Termux • Sites estilo hacker
 
 ---
 
-## Contatos
+# Contatos
 
 <p align="center">
 
