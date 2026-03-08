@@ -19,9 +19,9 @@ Programador • Automação • Bots • IA
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vicav87&show_icons=true&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&hide_border=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vicav87&show_icons=true&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&hide_border=true&cache_seconds=1800">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicav87&layout=compact&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&hide_border=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicav87&layout=compact&bg_color=0a0f1c&title_color=1f6feb&text_color=ffffff&hide_border=true&cache_seconds=1800">
 
 </p>
 
@@ -55,14 +55,6 @@ Bots de automação • Scripts para Termux • Sites estilo hacker
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vicav87&bg_color=0a0f1c&color=1f6feb&line=1f6feb&point=ffffff&hide_border=true">
 
-</p>
-
----
-
-## Snake
-
-<p align="center">
-<img src="https://github.com/Vicav87/Vicav87/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
