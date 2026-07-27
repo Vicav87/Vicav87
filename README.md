@@ -1,12 +1,12 @@
 <!-- BANNER GIF -->
 <p align="center">
-<img src="https://i.pinimg.com/originals/56/3c/05/563c051c796e3834047114da21707a49.gif" width="500">
+<img src="https://c.tenor.com/t0I_UYuSsCAAAAAC/tenor.gif" width="500">
 </p>
 
 <h1 align="center">Vicav87</h1>
 
 <p align="center">
-Dev Aleatório • Criativo & Preguiçoso • Bots • Linux • Python
+Dev Aleatório •vlr.kk• Bots • Linux • Python
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@ Dev Aleatório • Criativo & Preguiçoso • Bots • Linux • Python
 
 Sobre ☕
 
-E aí! Eu sou o Vicav, um desenvolvedor aleatório perdido no vácuo do código. 🌌 
+E aí! Eu sou o Vicav, um desenvolvedor aleatório perdido. 🌌 
 
-Sou o tipo de cara que tem mais criatividade do que vontade de terminar as coisas (a preguiça é real 🦥), mas juro que sou bom no que faço... eu acho. 🤷‍♂️ Atualmente não tenho nenhum projeto público incrível para mostrar minhas habilidades, mas confie em mim: nos meus repositórios privados e no meu terminal, a mágica acontece.
+Sou o tipo de cara que tem mais criatividade do que vontade de terminar as coisas, mas juro que sou bom no que faço... eu acho. Atualmente não tenho nenhum projeto público incrível para mostrar minhas habilidades, mas confie em mim: nos meus repositórios privados e no meu terminal, a mágica acontece.
 
 O que eu faço e uso:
 
@@ -25,7 +25,7 @@ O que eu faço e uso:
      🐍 Python & Bots: Criando automações e bots pro Discord.
      🎮 CronusZen: Já fiz scripts na linguagem deles (sim, é estranho, mas é interessante!).
      🐧 Linux EndeavourOS: A vida é muito curta para usar Windows.
-     📱 Termux: Levando o terminal no bolso e hackeando pelo celular (brincadeira... ou não 👀).
+     📱 Termux: Levando o terminal no bolso e hackeando pelo celular.
 
 Estatísticas
 <p align="center">
@@ -62,9 +62,7 @@ Projetos
 </a>
 </p>
 
-     
-
-    "Meus projetos públicos estão em construção (ou escondidos por preguiça), mas fique à vontade para explorar o que tenho até agora!" 🚧
+    Meus projetos públicos estão em construção (ou escondidos por preguiça), mas fique à vontade para explorar o que tenho até agora! 🚧
 
 Atividade
 <p align="center">
@@ -92,4 +90,4 @@ Contatos
 
 <p align="center">
 <img src="https://c.tenor.com/kwsgs2ln7UsAAAAC/tenor.gif" width="400">
-</p>!
+</p>
